@@ -6,7 +6,7 @@ namespace Application
 	{
 		public InanilmasiGucClass ()
 		{
-			
+			// Değişiklik
 		}
 	}
 }
